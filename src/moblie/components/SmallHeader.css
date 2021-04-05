@@ -1,0 +1,14 @@
+.smallheader{
+    height: 12vh;
+    padding: 14px;
+}
+
+.right__smallCard{
+    float: right;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    width: 5rem;
+    padding: 10px;
+    margin-right: 6px;
+}

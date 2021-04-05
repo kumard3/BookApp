@@ -1,0 +1,8 @@
+.footer{
+    position: fixed;
+    height: 10vh;
+    width: 100vw;
+    
+    border-radius: 10px;
+    bottom: 0;
+}

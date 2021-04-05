@@ -1,0 +1,14 @@
+.card__main{
+    display: flex;
+    flex-direction: row;
+    overflow: scroll;
+}
+
+
+.card__img{
+    padding-right: 10px;
+    border-radius: 15px;
+    width: 110px;
+    padding-left:5px;
+
+}

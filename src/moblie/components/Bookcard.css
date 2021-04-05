@@ -1,0 +1,17 @@
+.bookcard{
+    position: absolute;
+}
+
+
+.bookcard__content{
+    padding: 10px;
+  display: flex;
+
+}
+
+.bookcard__main{
+display: flex;
+flex-direction: column;
+overflow: scroll;
+
+}
